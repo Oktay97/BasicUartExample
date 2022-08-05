@@ -1,0 +1,7 @@
+uartHandle.c:20:9:communicationHandler	88	static
+uartHandle.c:86:9:lrcCompute	24	static
+uartHandle.c:97:8:checkLrc	32	static
+uartHandle.c:108:6:Send_Packet	32	static
+uartHandle.c:118:6:uartDataHandler	16	static
+uartHandle.c:139:6:HAL_UART_RxCpltCallback	16	static
+uartHandle.c:154:6:Uart_Systick_Timer	8	static

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicUartExampleGUI", "BasicUartExampleGUI\BasicUartExampleGUI.csproj", "{2D2BE734-95B9-4911-B876-95FF9E4DCADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D2BE734-95B9-4911-B876-95FF9E4DCADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2BE734-95B9-4911-B876-95FF9E4DCADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2BE734-95B9-4911-B876-95FF9E4DCADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2BE734-95B9-4911-B876-95FF9E4DCADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8294F96D-127A-4CB1-9BF7-8733408CE5FF}
+	EndGlobalSection
+EndGlobal

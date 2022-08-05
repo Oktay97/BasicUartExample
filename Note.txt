@@ -1,0 +1,6 @@
+# 220201
+1.Butona basılınca data basılacak (test amaclı)
+2.Retry mekanizması eklenecek
+3.flaglar düzenlenecek
+4.c# için struct yapısı gözden geçirilecek
+5.Uart ve can hattı düzgün bir şekilde çalıştıktan sonra bootloader eklenecek.
